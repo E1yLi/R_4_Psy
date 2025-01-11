@@ -1,0 +1,2 @@
+"df_name","avg_age","min_age","max_age","var_age","mean_rt","min_rt","max_rt","var_rt","avg_depression","min_depression","max_depression","var_depression","mean_sleep","min_sleep","max_sleep","var_sleep","gender_counts"
+"imported_df",52.7666666666667,18,80,333.052572706935,3212.5679686442,238.74754817225,5989.28242046386,2632961.46526777,50.4933333333333,1,100,853.325458612976,6.62466159791996,2.04310962278396,11.7642504633404,7.46684903484542,"Male: 76; Female: 74"
