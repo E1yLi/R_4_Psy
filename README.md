@@ -1,4 +1,4 @@
-This repository contains code and data for a the begginer R course tau_psych_R4B. 
+This repository contains code and data for the begginer R course tau_psych_R4B. 
 
 week_7: The project includes scripts to process, clean, and analyze raw data, focusing on response times (RT) and accuracy (ACC) under different task and congruency conditions.
 
